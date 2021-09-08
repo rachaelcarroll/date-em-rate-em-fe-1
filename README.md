@@ -13,7 +13,7 @@
 
 ## Overview
 
-clien<i>tell</i>  is an application to support sex-worker communities by creating a platform for them to share experiences about people they go out with in order to share that information with others in their community. The application was built using React and using GraphQL. This application was built as the capstone group project of Module 4 at [Turing](turing.edu) by a team of front-end and back-end students. View original project spec [here.](https://mod4.turing.edu/projects/capstone/)
+clien<i>tell</i>  is an application to support sex-worker communities by creating a platform for them to share experiences about people they go out with in order to share that information with others in their community. The application was built using React and using GraphQL. This application was built as the capstone group project of Module 4 at [Turing](https://turing.edu/) by a team of front-end and back-end students. View original project spec [here.](https://mod4.turing.edu/projects/capstone/)
 
 ### Learning Goals
 
